@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico Ranabhat</h1>
 <h3 align="center">A graduate student studying Machine Learning at the University of Wisconsin-Madison</h3>
 
-- 🔭 I’m currently working on [a chess-playing robot](link1)
+- 🔭 I’m currently working on [a chess-playing robot]([link1](https://github.com/nranabhat/Chess-Playing-Robot))
 
 - 🌱 I’m currently taking courses in **Machine Learning, Image Processing, and Robotics**
 
