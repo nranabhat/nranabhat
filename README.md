@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a chess-playing robot](https://github.com/nranabhat/Chess-Playing-Robot)
 
-- 🌱 I’m also taking courses in **Machine Learning, Image Processing, and Robotics**
+- 🌱 I’m taking courses in **Machine Learning, Image Processing, and Robotics**
 
 - 🤝 I'm actively searching for an internship for Summer 2024 
 
