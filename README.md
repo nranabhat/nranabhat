@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/1aBB4slvUu01BOBtmCzU-q9eyryqzCVx4EbtIQWPPhlo/edit?usp=sharing)
 
-- ⚡ Fun fact **I play professional ultimate frisbee. [Checkout these highlights](https://www.youtube.com/watch?v=jsmigKE2v9U)**
+- ⚡ Fun fact: **I play professional ultimate frisbee. [Checkout these highlights](https://www.youtube.com/watch?v=jsmigKE2v9U)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
