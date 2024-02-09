@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [a chess-playing robot](https://github.com/nranabhat/Chess-Playing-Robot)
 
-- 🌱 I’m taking courses in **Machine Learning, Image Processing, and Robotics**
+- 🌱 I’m taking courses in **Machine Learning, Computer Vision, and Data Integration**
 
 - 🤝 I'm actively searching for an internship for Summer 2024 
 
 <!--- - 👨‍💻 All of my projects are available at [make this link](make this link) -->
 
-- 📄 Checkout my [resume!](https://docs.google.com/document/d/1aBB4slvUu01BOBtmCzU-q9eyryqzCVx4EbtIQWPPhlo/edit?usp=sharing)
+- 📄 Checkout my [resume!](https://docs.google.com/document/d/1HmM2lXzqkL4Wa4iUfAHs-6PGS9Yf8-zNLFE_nU8I3nA/edit?usp=sharing)
 
 - ⚡ Fun fact: **I play professional ultimate frisbee. [Checkout these highlights](https://www.youtube.com/watch?v=jsmigKE2v9U)**
 
