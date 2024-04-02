@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nico Ranabhat</h1>
 <h3 align="center">A graduate student studying Machine Learning at the University of Wisconsin-Madison</h3>
 
-- 🔭 I’m currently working on [a chess-playing robot](https://github.com/nranabhat/Chess-Playing-Robot)
+- 🔭 I’m currently working on a [real-time superresolution method](https://github.com/hemanth-nakshatri/Dynamic-Zoom) for video input.
 
 - 🌱 I’m taking courses in **Machine Learning, Computer Vision, and Data Integration**
 
 - 🤝 I'm actively searching for an internship for Summer 2024 
 
-<!--- - 👨‍💻 All of my projects are available at [make this link](make this link) -->
+- 🤖 Checkout this [chess-playing robot](https://github.com/nranabhat/Chess-Playing-Robot) I recently built!
 
 - 📄 Checkout my [resume!](https://docs.google.com/document/d/1HmM2lXzqkL4Wa4iUfAHs-6PGS9Yf8-zNLFE_nU8I3nA/edit?usp=sharing)
 
