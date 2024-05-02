@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico Ranabhat</h1>
 <h3 align="center">A graduate student studying Machine Learning at the University of Wisconsin-Madison</h3>
 
-- 🔭 I’m currently working on a [real-time superresolution method](https://github.com/hemanth-nakshatri/Dynamic-Zoom) for video input.
+- 🔭 I’m currently working on a [real-time superresolution method](https://dynamic-zoom.github.io/home/) for video input.
 
 - 🌱 I’m taking courses in **Machine Learning, Computer Vision, and Data Integration**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I play professional ultimate frisbee. [Checkout these highlights](https://www.youtube.com/watch?v=jsmigKE2v9U)**
 
-- 📫 Reach out at **nicoranabhat at gmail dot com**
+- 📫 Reach out at **nicoranabhat @ gmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
