@@ -5,7 +5,7 @@
 
 - 🌱 I’m taking courses in **Machine Learning, Computer Vision, and Data Integration**
 
-- 🤝 I'm actively searching for an internship for Summer 2024 
+- 🤝 I'm actively searching for an entry-level position starting Fall 2024 
 
 - 🤖 Checkout this [chess-playing robot](https://github.com/nranabhat/Chess-Playing-Robot) I recently built!
 
