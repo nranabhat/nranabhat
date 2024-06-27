@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico Ranabhat</h1>
 <h3 align="center">A graduate student studying Machine Learning at the University of Wisconsin-Madison</h3>
 
-- 🔭 I recently built a [real-time superresolution method](https://dynamic-zoom.github.io/home/) for video input.
+- 🔭 I recently built a [real-time superresolution tool](https://dynamic-zoom.github.io/home/) for video input.
 
 - 🌱 I’m taking courses in **Machine Learning, Computer Vision, and Data Integration**
 
