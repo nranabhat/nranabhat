@@ -60,5 +60,5 @@
 
 
 <h3 align="center">
-  Check out my <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/refs/heads/main/readme_stuff.svg" alt="repos" style="vertical-align: middle;"> 👇
+  Check out my <img src="https://github.com/nranabhat/nranabhat/blob/main/readme_stuff.svg" alt="repos" style="vertical-align: middle;"> 👇
 </h3>
