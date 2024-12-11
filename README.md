@@ -58,7 +58,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nranabhat&theme=darcula&hide_border=true&background=00000000" alt="GitHub Stats" />
 </p>
 
-
+<!---
 <h3 align="center">
   Check out my <img src="https://github.com/nranabhat/nranabhat/blob/main/readme_stuff.svg" alt="repos" style="vertical-align: bottom;"> 👇
+</h3>
+-->
+
+<h3 align="center">
+  Check out my repos 👇
 </h3>
