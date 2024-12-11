@@ -2,13 +2,13 @@
 
 <!-- TYPING DATA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BA5F17&size=35&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%91%8B,+I'm+Nico+Ranabhat!;A+recent+ML+graduate+from+UW-Madison.;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=BA5F17&size=35&center=true&vCenter=true&width=1000&lines=Hello,+%F0%9F%91%8B+I'm+Nico;A+recent+ML+graduate+from+UW-Madison.;Welcome+to+my+profile!">
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🤝 I'm actively searching for an **entry-level position in Data Science.**
+- 🤝 I'm actively searching for work opportunities **in Data Science, Machine Learning, Software Development.**
 - 📄 Check out my **[resume!](https://docs.google.com/document/d/1HmM2lXzqkL4Wa4iUfAHs-6PGS9Yf8-zNLFE_nU8I3nA/edit?usp=sharing)**
 - 🔭 Recently built a **[real-time superresolution tool](https://dynamic-zoom.github.io/home/)** for video input.
 - 🤖 Built a fun **[chess-playing robot](https://github.com/nranabhat/Chess-Playing-Robot).**
