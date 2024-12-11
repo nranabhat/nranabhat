@@ -59,6 +59,6 @@
 </p>
 
 
-<p align="center">
+<h3 align="center">
   Check out my <img src="https://github.com/nranabhat/nranabhat/blob/main/readme_stuff.svg" alt="repos" style="vertical-align: middle;"> 👇
-</p>
+</h3>
