@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nico Ranabhat</h1>
-<h3 align="center">A recent ML graduate student from the University of Wisconsin-Madison</h3>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- TYPING DATA -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Nico;a+recent+ML+graduate+from+UW-Madison.;Welcome+to+my+profile!)
 
 - 🤝 I'm actively searching for an entry-level position in Data Science
+
+- 📄 Checkout my [resume!](https://docs.google.com/document/d/1HmM2lXzqkL4Wa4iUfAHs-6PGS9Yf8-zNLFE_nU8I3nA/edit?usp=sharing)
 
 - 🔭 I recently built a [real-time superresolution tool](https://dynamic-zoom.github.io/home/) for video input.
 
 - 🤖 Checkout this [chess-playing robot](https://github.com/nranabhat/Chess-Playing-Robot) I recently built!
 
-- 📄 Checkout my [resume!](https://docs.google.com/document/d/1HmM2lXzqkL4Wa4iUfAHs-6PGS9Yf8-zNLFE_nU8I3nA/edit?usp=sharing)
+- ⚡ Fun fact: I play professional ultimate frisbee. [Checkout these highlights](https://www.youtube.com/watch?v=jsmigKE2v9U)
 
-- ⚡ Fun fact: **I play professional ultimate frisbee. [Checkout these highlights](https://www.youtube.com/watch?v=jsmigKE2v9U)**
-
-- 📫 Reach out at **nicoranabhat @ gmail**
+- 📫 Reach out at nicoranabhat @ gmail
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +23,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
+<!---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nranabhat&show_icons=true&locale=en&layout=compact" alt="nranabhat" /></p>
+--> 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nranabhat&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6" alt="nranabhat" /></p>
+
+<!--- GitHub Contributions
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nranabhat&theme=darcula&hide_border=true&background=FFFFFF00"
+</p>
+-->
