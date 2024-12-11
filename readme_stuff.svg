@@ -5,5 +5,5 @@
       <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <text x="0" y="5" fill="url(#gradient)" font-size="20" font-weight="bold">repos</text>
+  <text x="0" y="27" fill="url(#gradient)" font-size="20" font-weight="bold">repos</text>
 </svg>
