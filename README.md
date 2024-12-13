@@ -26,17 +26,17 @@
       <a href="https://dynamic-zoom.github.io/home/" target="_blank" style="text-decoration: none;">
         <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">Dynamic Zoom - Realtime Video Super-resolution</p>
       </a>
-      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/dynamic_zoom_dog.gif" alt="Dynamic Zoom Dog" width="400">
+      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/dynamic_zoom_dog.gif" alt="Dynamic Zoom Dog" width="375">
     </td>
     <td align="center">
       <a href="https://github.com/nranabhat/Chess-Playing-Robot" target="_blank" style="text-decoration: none;">
         <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">ChessBot</p>
       </a>
-      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/robot_chess.gif" alt="Robot Chess" width="250">
+      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/robot_chess.gif" alt="Robot Chess" width="200">
     </td>
     <td align="center">
       <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">PlantID (tbd)</p>
-      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/plantID_preview.png" alt="PlantID Preview" width="300">
+      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/plantID_preview.png" alt="PlantID Preview" width="200">
     </td>
   </tr>
 </table>
