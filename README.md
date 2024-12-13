@@ -10,19 +10,36 @@
 ### 🌟 About Me
 - 🤝 I'm actively searching for work opportunities **in Data Science, Machine Learning, Software Development.**
 - 📄 Check out my **[resume!](https://docs.google.com/document/d/1HmM2lXzqkL4Wa4iUfAHs-6PGS9Yf8-zNLFE_nU8I3nA/edit?usp=sharing)**
-- 🔭 Recently built a **[real-time superresolution tool](https://dynamic-zoom.github.io/home/)** for video input.
-- 🤖 Built a fun **[chess-playing robot](https://github.com/nranabhat/Chess-Playing-Robot).**
 - ⚡ Fun fact: I play professional ultimate frisbee! [**Check out highlights!**](https://www.youtube.com/watch?v=jsmigKE2v9U)
 - 📫 Reach me at: **nicoranabhat@gmail.com**
+- <a href="https://linkedin.com/in/nranabhat" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
 
 ---
 
-### 📌 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/nranabhat" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+### 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://dynamic-zoom.github.io/home/" target="_blank" style="text-decoration: none;">
+        <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">Dynamic Zoom - Realtime Video Super-resolution</p>
+      </a>
+      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/dynamic_zoom_dog.gif" alt="Dynamic Zoom Dog" width="400">
+    </td>
+    <td align="center">
+      <a href="https://github.com/nranabhat/Chess-Playing-Robot" target="_blank" style="text-decoration: none;">
+        <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">ChessBot</p>
+      </a>
+      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/robot_chess.gif" alt="Robot Chess" width="250">
+    </td>
+    <td align="center">
+      <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">PlantID (tbd)</p>
+      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/plantID_preview.png" alt="PlantID Preview" width="300">
+    </td>
+  </tr>
+</table>
 
 ---
 
