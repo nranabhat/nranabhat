@@ -2,7 +2,7 @@
 
 <!-- TYPING DATA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BA5F17&size=35&center=true&vCenter=true&width=1000&lines=Hello,+%F0%9F%91%8B+I'm+Nico;A+recent+ML+graduate+from+UW-Madison.;Welcome+to+my+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4af9ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+%F0%9F%91%8B+I'm+Nico;A+recent+ML+graduate+from+UW-Madison.;Welcome+to+my+profile!">
 </p>
 
 ---
@@ -72,7 +72,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nranabhat&theme=darcula&hide_border=true&background=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nranabhat&theme=noctis-minimus&hide_border=true&background=00000000" alt="GitHub Stats" />
 </p>
 
 <!---
