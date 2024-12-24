@@ -35,8 +35,8 @@
       <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/robot_chess.gif" alt="Robot Chess" width="200">
     </td>
     <td align="center">
-      <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">PlantID (tba)</p>
-      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/plantID_preview.png" alt="PlantID Preview" width="200">
+      <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">FloraFacts (tba)</p>
+      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/florafinder_preview.png" alt="PlantID Preview" width="200">
     </td>
   </tr>
 </table>
