@@ -35,7 +35,9 @@
       <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/robot_chess.gif" alt="Robot Chess" width="200">
     </td>
     <td align="center">
-      <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">FloraFacts (tba)</p>
+      <a href="https://flora-facts.vercel.app/" target="_blank" style="text-decoration: none;">
+        <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">FloraFacts</p>
+      </a>
       <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/florafinder_preview.png" alt="PlantID Preview" width="200">
     </td>
   </tr>
