@@ -26,7 +26,7 @@
       <a href="https://dynamic-zoom.github.io/home/" target="_blank" style="text-decoration: none;">
         <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">Dynamic Zoom - Realtime Video Super-resolution</p>
       </a>
-      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/dynamic_zoom_dog.gif" alt="Dynamic Zoom Dog" width="375">
+      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/dynamic_zoom_dog.gif" alt="Dynamic Zoom Dog" width="325">
     </td>
     <td align="center">
       <a href="https://github.com/nranabhat/Chess-Playing-Robot" target="_blank" style="text-decoration: none;">
@@ -38,7 +38,7 @@
       <a href="https://florafacts.xyz/" target="_blank" style="text-decoration: none;">
         <p style="font-size: 16px; font-weight: normal; margin: 5px 0;">FloraFacts</p>
       </a>
-      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/florafinder_preview.png" alt="PlantID Preview" width="200">
+      <img src="https://raw.githubusercontent.com/nranabhat/nranabhat/main/assets/florafinder_preview.png" alt="PlantID Preview" width="325">
     </td>
   </tr>
 </table>
