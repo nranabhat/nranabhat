@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 - 🤝 I'm actively searching for work opportunities **in Data Science and Software Development.**
-- 📄 Check out my **[resume!](https://docs.google.com/document/d/1HmM2lXzqkL4Wa4iUfAHs-6PGS9Yf8-zNLFE_nU8I3nA/edit?usp=sharing)**
+- 📄 Check out my **[website!](https://nicoranabhat.xyz/)**
 - ⚡ Fun fact: I play professional ultimate frisbee! [**Check out highlights!**](https://www.youtube.com/watch?v=jsmigKE2v9U)
 - 📫 Reach me at: **nicoranabhat@gmail.com** or 
   <a href="https://linkedin.com/in/nranabhat" target="_blank">
